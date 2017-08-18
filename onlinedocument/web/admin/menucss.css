@@ -1,0 +1,45 @@
+.nav{
+    display:inline-block;
+    width:100%;
+    margin:0px auto;
+    padding:0;
+    background-color: blueviolet;
+    color: white;
+    font-size: 22px;
+    height: 40px;
+    padding-top: 10px;
+    
+}
+.nav li{   
+    margin-left:30px;
+    float:left;
+    position:relative;
+    list-style:none;
+    cursor: pointer;
+    
+}
+.nav li ul{   
+   
+    visibility:hidden;
+    padding:0;
+    width:175px;
+    position:absolute;
+    text-align: left;
+   
+    
+}
+.nav li:hover{
+  color:orange;
+}
+.nav li:hover>ul{
+     
+    visibility:visible;
+    background-color: blueviolet;
+    color: white;
+   
+}
+.nav li ul li{
+    margin-top: 14px;  
+    
+    float: none;
+}
