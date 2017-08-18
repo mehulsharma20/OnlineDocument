@@ -1,0 +1,27 @@
+SMAP
+upload_jsp.java
+JSP
+*S JSP
+*F
++ 0 upload.jsp
+stateboard/upload.jsp
++ 1 header.jsp
+stateboard/header.jsp
++ 2 menu.jsp
+stateboard/menu.jsp
++ 3 footer.jsp
+stateboard/footer.jsp
+*L
+1:52
+5#1,12:53
+2#0:65
+1#2,67:66
+3#0,24:133
+27,15:158
+41,2:173
+43:175,9
+44,2:184
+46,3:187
+48,6:190
+1#3,4:195
+*E
